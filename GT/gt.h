@@ -1,0 +1,22 @@
+#include <windows.h>
+//#include <winsock2.h>
+#include <direct.h>
+#include <stdio.h>
+#include <math.h>
+#include "nif.h"
+#include "evt.h"
+#include "obj.h"
+#include "lnk.h"
+#include "loc.h"
+#include "mem.h"
+#include "fa.h"
+#include "btl.h"
+#include "obj_type.h"
+#include "evt_func.h"
+#include "obj_func.h"
+#include "cmd_send.h"
+#include "loc_func.h"
+#include "dev_func.h"
+
+#include "users.h"
+#include "obj_save.h"

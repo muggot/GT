@@ -1,0 +1,2 @@
+wcl386 main.c evt_func.c obj_func.c memmng.c fa.c evt_oload.c evt_oinit.c evt_inet.c evt_lnk.c evt_nif.c evt_rmi.c evt_orbit.c evt_spark.c evt_ul.c users.c cmd_send.c loc_func.c prep.c obj_save.c evt_btl.c evt_battle.c dev_func.c ws2_32.lib -ot
+rem wcl386 logserv.c prep.c -d2
